@@ -1,6 +1,6 @@
 ## Hi, I’m Nirvik Mazumdar
 
-I am a student in Germany with a focus on applied machine learning, optimization, and real-world systems. My work centers on building end-to-end pipelines that combine data processing, modeling, and practical deployment.
+I am a Master student in Robotic System Engineering in RWTH Aachen,Germany with a focus on applied machine learning, optimization, and real-world systems. My work centers on building end-to-end pipelines that combine data processing, modeling, and practical deployment.
 
 ---
 
